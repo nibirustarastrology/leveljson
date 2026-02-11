@@ -132,6 +132,27 @@
         { "x": 7, "y": 8, "colorId": 1, "isBlocking": true, "showsArrow": false,  "direction": "up" },
         { "x": 8, "y": 8, "colorId": 0, "isBlocking": true, "showsArrow": false,  "direction": "up" }
       ]
-    }
+    },
+    {
+  "id": 11,
+  "title": "diamond",
+  "availableColorsCount": 5,
+  "center": [
+    { "x": 5, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 4, "y": 4, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 6, "y": 4, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 3, "y": 5, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 5, "y": 5, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 7, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 4, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 6, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 5, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" }
+  ]
+}
+
   ]
 }
