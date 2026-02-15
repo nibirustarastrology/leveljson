@@ -370,6 +370,62 @@
 
       { "x": 6, "y": 9, "colorId": 8, "isBlocking": true, "showsArrow": false, "direction": "up" }
     ]
+  },
+  {
+    "id": 24,
+    "title": "medium_preloaded_arrows",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 4, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 7, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 7, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 8, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      /* стартовые стрелки */
+      { "x": 3, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 9, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": true, "direction": "left" }
+    ]
+  },
+
+  {
+    "id": 25,
+    "title": "hard_chain_release",
+    "availableColorsCount": 8,
+    "center": [
+      { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 4, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 4, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 4, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 4, "y": 5, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 5, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 5, "colorId": 6, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 3, "y": 6, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 5, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 9, "y": 6, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+      { "x": 4, "y": 7, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 7, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 8, "colorId": 5, "isBlocking": true, "showsArrow": true, "direction": "up" },
+      { "x": 6, "y": 8, "colorId": 6, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 8, "colorId": 5, "isBlocking": true, "showsArrow": true, "direction": "up" },
+
+      { "x": 6, "y": 9, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
   }
   ]
 }
