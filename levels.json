@@ -390,7 +390,6 @@
 
       { "x": 6, "y": 8, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
 
-      /* стартовые стрелки */
       { "x": 3, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": true, "direction": "right" },
       { "x": 9, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": true, "direction": "left" }
     ]
