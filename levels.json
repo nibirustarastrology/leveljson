@@ -147,7 +147,7 @@
   },
   {
     "id": 12,
-    "title": "small_diamond",
+    "title": "small diamond",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -163,7 +163,7 @@
   },
   {
     "id": 13,
-    "title": "x_shape",
+    "title": "x shape",
     "availableColorsCount": 5,
     "center": [
       { "x": 4, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -196,7 +196,7 @@
   },
   {
     "id": 15,
-    "title": "star_core",
+    "title": "star core",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -214,7 +214,7 @@
   },
   {
     "id": 16,
-    "title": "big_diamond",
+    "title": "big diamond",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -237,7 +237,7 @@
   },
   {
     "id": 17,
-    "title": "double_plus",
+    "title": "double plus",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -253,7 +253,7 @@
   },
   {
     "id": 18,
-    "title": "square_frame",
+    "title": "square frame",
     "availableColorsCount": 5,
     "center": [
       { "x": 4, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -282,7 +282,7 @@
   },
   {
     "id": 20,
-    "title": "cross_ring",
+    "title": "cross ring",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -298,7 +298,7 @@
   },
   {
     "id": 21,
-    "title": "medium_cross_core",
+    "title": "medium cross core",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -317,7 +317,7 @@
 
   {
     "id": 22,
-    "title": "medium_offset_ring",
+    "title": "medium offset ring",
     "availableColorsCount": 7,
     "center": [
       { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -342,7 +342,7 @@
 
   {
     "id": 23,
-    "title": "hard_multi_layer",
+    "title": "hard multi layer",
     "availableColorsCount": 9,
     "center": [
       { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -373,7 +373,7 @@
   },
   {
     "id": 24,
-    "title": "medium_preloaded_arrows",
+    "title": "preloaded arrows",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -397,7 +397,7 @@
 
   {
     "id": 25,
-    "title": "hard_chain_release",
+    "title": "chain release",
     "availableColorsCount": 8,
     "center": [
       { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -428,7 +428,7 @@
   },
     {
   "id": 26,
-  "title": "mono_color_medium_no_arrows",
+  "title": "mono color",
   "availableColorsCount": 1,
   "center": [
     { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -454,7 +454,7 @@
 },
   {
     "id": 27,
-    "title": "wide_arc",
+    "title": "wide arc",
     "availableColorsCount": 4,
     "center": [
       { "x": 4, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -471,7 +471,7 @@
 
   {
     "id": 28,
-    "title": "cross_locked",
+    "title": "cross locked",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "down" },
@@ -485,7 +485,7 @@
 
   {
     "id": 29,
-    "title": "dense_offset",
+    "title": "dense offset",
     "availableColorsCount": 5,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -502,7 +502,7 @@
 
   {
     "id": 30,
-    "title": "side_pressure",
+    "title": "side pressure",
     "availableColorsCount": 6,
     "center": [
       { "x": 4, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -520,7 +520,7 @@
 
   {
     "id": 31,
-    "title": "open_ring",
+    "title": "open ring",
     "availableColorsCount": 4,
     "center": [
       { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -538,7 +538,7 @@
 
   {
     "id": 32,
-    "title": "arrow_bridge",
+    "title": "arrow bridge",
     "availableColorsCount": 5,
     "center": [
       { "x": 5, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -554,7 +554,7 @@
     
   {
     "id": 33,
-    "title": "staggered_wall",
+    "title": "staggered wall",
     "availableColorsCount": 5,
     "center": [
       { "x": 4, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -572,7 +572,7 @@
 
   {
     "id": 34,
-    "title": "vertical_clash",
+    "title": "vertical clash",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "down" },
@@ -588,7 +588,7 @@
 
   {
     "id": 35,
-    "title": "dense_cross",
+    "title": "dense cross",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -606,7 +606,7 @@
 
   {
     "id": 36,
-    "title": "mirror_push",
+    "title": "mirror push",
     "availableColorsCount": 4,
     "center": [
       { "x": 4, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -624,7 +624,7 @@
 
   {
     "id": 37,
-    "title": "broken_grid",
+    "title": "broken grid",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -641,7 +641,7 @@
 
   {
     "id": 38,
-    "title": "center_lock",
+    "title": "center lock",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "up" },
@@ -656,7 +656,7 @@
     
   {
     "id": 39,
-    "title": "zigzag_band",
+    "title": "zigzag band",
     "availableColorsCount": 5,
     "center": [
       { "x": 4, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -670,7 +670,7 @@
 
   {
     "id": 40,
-    "title": "dual_lane_push",
+    "title": "dual lane push",
     "availableColorsCount": 6,
     "center": [
       { "x": 4, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -688,7 +688,7 @@
 
   {
     "id": 41,
-    "title": "compact_cluster",
+    "title": "compact cluster",
     "availableColorsCount": 4,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -705,7 +705,7 @@
 
   {
     "id": 42,
-    "title": "vertical_bridge",
+    "title": "vertical bridge",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "down" },
@@ -719,7 +719,7 @@
 
   {
     "id": 43,
-    "title": "broken_diamond",
+    "title": "broken diamond",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -739,7 +739,7 @@
 
   {
     "id": 44,
-    "title": "arrow_ring",
+    "title": "arrow ring",
     "availableColorsCount": 5,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -754,7 +754,7 @@
     
   {
     "id": 45,
-    "title": "compressed_cross",
+    "title": "compressed cross",
     "availableColorsCount": 5,
     "center": [
       { "x": 6, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -772,7 +772,7 @@
 
   {
     "id": 46,
-    "title": "quad_push_core",
+    "title": "quad push core",
     "availableColorsCount": 6,
     "center": [
       { "x": 4, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -788,7 +788,7 @@
 
   {
     "id": 47,
-    "title": "tight_hex",
+    "title": "tight hex",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -805,7 +805,7 @@
 
   {
     "id": 48,
-    "title": "split_ring_arrows",
+    "title": "split ring arrows",
     "availableColorsCount": 5,
     "center": [
       { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -823,7 +823,7 @@
 
   {
     "id": 49,
-    "title": "dense_core_pressure",
+    "title": "dense core pressure",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -840,7 +840,7 @@
 
   {
     "id": 50,
-    "title": "cross_lock_pressure",
+    "title": "cross lock pressure",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "down" },
