@@ -425,6 +425,33 @@
 
       { "x": 6, "y": 9, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" }
     ]
-  }
+  },
+    {
+  "id": 27,
+  "title": "mono_color_medium_no_arrows",
+  "availableColorsCount": 1,
+  "center": [
+    { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 7, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 4, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 8, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 3, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 6, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 9, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 4, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 8, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 5, "y": 8, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 7, "y": 8, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 6, "y": 9, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+  ]
+}
+
   ]
 }
