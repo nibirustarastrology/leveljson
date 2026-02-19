@@ -429,7 +429,7 @@
     {
   "id": 26,
   "title": "mono color",
-  "availableColorsCount": 1,
+  "availableColorsCount": 5,
   "center": [
     { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
 
