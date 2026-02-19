@@ -750,6 +750,108 @@
 
       { "x": 6, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" }
     ]
+  },
+    
+  {
+    "id": 45,
+    "title": "compressed_cross",
+    "availableColorsCount": 5,
+    "center": [
+      { "x": 6, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 7, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 7, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 46,
+    "title": "quad_push_core",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 4, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 8, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "left" },
+      { "x": 6, "y": 4, "colorId": 2, "isBlocking": true, "showsArrow": true, "direction": "down" },
+      { "x": 6, "y": 8, "colorId": 3, "isBlocking": true, "showsArrow": true, "direction": "up" },
+
+      { "x": 5, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 47,
+    "title": "tight_hex",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 48,
+    "title": "split_ring_arrows",
+    "availableColorsCount": 5,
+    "center": [
+      { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 7, "y": 4, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+      { "x": 4, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 8, "colorId": 4, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 7, "y": 8, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+      { "x": 6, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 49,
+    "title": "dense_core_pressure",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 50,
+    "title": "cross_lock_pressure",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "down" },
+      { "x": 6, "y": 8, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "up" },
+      { "x": 4, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 8, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+      { "x": 5, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
   }
 
   ]
