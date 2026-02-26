@@ -893,6 +893,20 @@
       { "x": 6, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 7, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
     ]
+  },
+
+  {
+    "id": 51,
+    "title": "challenge 1",
+    "availableColorsCount": 7,
+    "center": [
+      { "x": 6, "y": 2, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "down" },
+      { "x": 6, "y": 3, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 4, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "right" },
+      { "x": 6, "y": 5, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "left" },
+
+      { "x": 5, "y": 3, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "down" }
+    ]
   }
 
   ]
