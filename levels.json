@@ -907,7 +907,37 @@
 
       { "x": 5, "y": 3, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "down" }
     ]
-  }
+  },
+    {
+  "id": 52,
+  "title": "two move challenge",
+  "availableColorsCount": 5,
+  "center": [
+
+    { "x": 6, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 5, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 7, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+    { "x": 6, "y": 5, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 6, "y": 7, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+
+    { "x": 4, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": true, "direction": "right" },
+    { "x": 8, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+    { "x": 6, "y": 4, "colorId": 4, "isBlocking": true, "showsArrow": true, "direction": "down" },
+    { "x": 6, "y": 8, "colorId": 4, "isBlocking": true, "showsArrow": true, "direction": "up" },
+
+
+    { "x": 3, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "right" },
+    { "x": 9, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+    { "x": 6, "y": 3, "colorId": 3, "isBlocking": true, "showsArrow": true, "direction": "down" },
+    { "x": 6, "y": 9, "colorId": 3, "isBlocking": true, "showsArrow": true, "direction": "up" }
+  ]
+}
+
 
   ]
 }
