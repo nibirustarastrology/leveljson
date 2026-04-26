@@ -894,5 +894,183 @@
       { "x": 7, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
     ]
   }
+    
+  {
+    "id": 51,
+    "title": "wide_split",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 4, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 4, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 5, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 5, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 7, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 52,
+    "title": "dual_arrow_core",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 5, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 7, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+      { "x": 6, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 7, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 4, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 53,
+    "title": "compact_hex",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 54,
+    "title": "offset_bridge",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 4, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 5, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 5, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 7, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 55,
+    "title": "center_pressure",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "down" },
+      { "x": 6, "y": 8, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "up" },
+
+      { "x": 5, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 5, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 7, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 7, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 56,
+    "title": "broken_cluster",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 4, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 4, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 8, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 8, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 57,
+    "title": "triple_axis",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 6, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 5, "colorId": 3, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+      { "x": 4, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 7, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 58,
+    "title": "dense_split_ring",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 4, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 7, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 7, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 59,
+    "title": "seven_color_lock",
+    "availableColorsCount": 7,
+    "center": [
+      { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 5, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 4, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 6, "y": 6, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+      { "x": 5, "y": 7, "colorId": 6, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+
+      { "x": 6, "y": 8, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  },
+
+  {
+    "id": 60,
+    "title": "offset_arrow_web",
+    "availableColorsCount": 6,
+    "center": [
+      { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
+      { "x": 7, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "left" },
+
+      { "x": 6, "y": 4, "colorId": 2, "isBlocking": true, "showsArrow": true, "direction": "down" },
+      { "x": 6, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 6, "y": 8, "colorId": 4, "isBlocking": true, "showsArrow": true, "direction": "up" },
+
+      { "x": 4, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
+    ]
+  }
   ]
 }
