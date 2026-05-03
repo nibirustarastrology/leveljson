@@ -893,7 +893,7 @@
       { "x": 6, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 7, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" }
     ]
-  }
+  },
     
   {
     "id": 51,
