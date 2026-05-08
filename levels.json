@@ -874,7 +874,7 @@
 
   {
     "id": 51,
-    "title": "wide_split",
+    "title": "wide split",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -889,7 +889,7 @@
   },
   {
     "id": 52,
-    "title": "controlled_push",
+    "title": "controlled push",
     "availableColorsCount": 6,
     "center": [
       { "x": 4, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -903,7 +903,7 @@
   },
   {
     "id": 53,
-    "title": "compact_hex",
+    "title": "compact hex",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -917,7 +917,7 @@
   },
   {
     "id": 54,
-    "title": "offset_bridge",
+    "title": "offset bridge",
     "availableColorsCount": 6,
     "center": [
       { "x": 4, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -930,7 +930,7 @@
   },
   {
     "id": 55,
-    "title": "delayed_vertical",
+    "title": "delayed vertical",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "down" },
@@ -944,7 +944,7 @@
   },
   {
     "id": 56,
-    "title": "broken_cluster",
+    "title": "broken cluster",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -958,7 +958,7 @@
   },
   {
     "id": 57,
-    "title": "side_trigger",
+    "title": "side trigger",
     "availableColorsCount": 6,
     "center": [
       { "x": 4, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -974,7 +974,7 @@
   },
   {
     "id": 58,
-    "title": "dense_split_ring",
+    "title": "dense split ring",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -989,7 +989,7 @@
   },
   {
     "id": 59,
-    "title": "seven_color_lock_fixed",
+    "title": "seven color",
     "availableColorsCount": 7,
     "center": [
       { "x": 6, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1012,7 +1012,7 @@
   },
   {
     "id": 60,
-    "title": "locked_web",
+    "title": "web",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -1027,7 +1027,7 @@
     
   {
     "id": 61,
-    "title": "extended_cross",
+    "title": "extended cross",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1044,7 +1044,7 @@
 
   {
     "id": 62,
-    "title": "seven_split_extended",
+    "title": "split",
     "availableColorsCount": 7,
     "center": [
       { "x": 4, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1062,7 +1062,7 @@
 
   {
     "id": 63,
-    "title": "side_pressure_extended",
+    "title": "side pressure",
     "availableColorsCount": 6,
     "center": [
       { "x": 4, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -1079,7 +1079,7 @@
 
   {
     "id": 64,
-    "title": "offset_cluster_extended",
+    "title": "offset cluster",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1098,7 +1098,7 @@
 
   {
     "id": 65,
-    "title": "arrow_gate",
+    "title": "arrow gate",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 6, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "right" },
@@ -1112,7 +1112,7 @@
 
   {
     "id": 66,
-    "title": "seven_ring_offset",
+    "title": "ring offset",
     "availableColorsCount": 7,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1127,7 +1127,7 @@
 
   {
     "id": 67,
-    "title": "tight_stack",
+    "title": "tight stack",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 3, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1142,7 +1142,7 @@
 
   {
     "id": 68,
-    "title": "top_barrier_plus",
+    "title": "top barrier plus",
     "availableColorsCount": 6,
     "center": [
       { "x": 6, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1162,7 +1162,7 @@
     {
   "id": 69,
   "title": "metka",
-  "availableColorsCount": 5,
+  "availableColorsCount": 6,
   "center": [
     { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
     { "x": 6, "y": 4, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1171,7 +1171,7 @@
     { "x": 6, "y": 5, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
     { "x": 7, "y": 5, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
 
-    { "x": 5, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 5, "y": 6, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
     { "x": 7, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
 
     { "x": 4, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1179,7 +1179,7 @@
     { "x": 7, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
     { "x": 8, "y": 7, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
 
-    { "x": 3, "y": 8, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+    { "x": 3, "y": 8, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
     { "x": 9, "y": 8, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" }
   ]
 
@@ -1187,7 +1187,7 @@
 
   {
     "id": 70,
-    "title": "dense_core_lock",
+    "title": "dense core lock",
     "availableColorsCount": 6,
     "center": [
       { "x": 5, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
