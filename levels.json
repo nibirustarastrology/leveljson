@@ -1236,7 +1236,8 @@
       { "x": 6, "y": 7, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 7, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" }
     ]
-  }
+  },
+    
     {
       "id": 71,
       "title": "challenge 1",
@@ -1267,7 +1268,7 @@
       { "x": 6, "y": 8, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 6, "y": 9, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" }
       ]
-    },
+    }
 
   ]
 }
