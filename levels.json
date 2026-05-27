@@ -1323,9 +1323,9 @@
         { "x": 3, "y": 9, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "right" },
         { "x": 9, "y": 8, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "left" },
 
-        { "x": 9, "y": 3, "colorId": 8, "isBlocking": true, "showsArrow": false, "direction": "up" },
-        { "x": 10, "y": 3, "colorId": 8, "isBlocking": true, "showsArrow": false, "direction": "up" },
-        { "x": 9, "y": 9, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 9, "y": 3, "colorId": 9, "isBlocking": true, "showsArrow": false, "direction": "up" },
+        { "x": 10, "y": 3, "colorId": 9, "isBlocking": true, "showsArrow": false, "direction": "up" },
+        { "x": 9, "y": 9, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
         
         { "x": 3, "y": 3, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
         { "x": 5, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
