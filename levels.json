@@ -1383,9 +1383,9 @@
     { "x": 9, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": true, "direction": "down" },
     { "x": 9, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": true, "direction": "up" },
     
-    { "x": 7, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "left" },
-    { "x": 3, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "up" },
-    { "x": 4, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": true, "direction": "left" },
+    { "x": 7, "y": 3, "colorId": 2, "isBlocking": true, "showsArrow": true, "direction": "left" },
+    { "x": 3, "y": 4, "colorId": 2, "isBlocking": true, "showsArrow": true, "direction": "up" },
+    { "x": 4, "y": 4, "colorId": 2, "isBlocking": true, "showsArrow": true, "direction": "left" },
 
     { "x": 3, "y": 3, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "down" },
     { "x": 3, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "right" },
