@@ -3,7 +3,7 @@
   "version": 1,
   "levels": [
     {
-      "id": 1005,
+      "id": 1001,
       "title": "cascade machine 2",
       "description": "Clear the entire board in exactly 2 moves (one shoot and one bomb)",
       "availableColorsCount": 3,
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "id": 1001,
+      "id": 1006,
       "title": "Two Shots",
       "description": "Clear the entire board in exactly 2 moves. No boosters, no mercy.",
       "availableColorsCount": 6,
