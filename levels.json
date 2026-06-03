@@ -1606,8 +1606,7 @@
       { "x": 6, "y": 9, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" }
       ]
     }
-      ]
-    }
+     
 
   ]
 }
