@@ -3,6 +3,97 @@
   "version": 1,
   "levels": [
     {
+      "id": 1005,
+      "title": "cascade machine 2",
+      "description": "Clear the entire board in exactly 2 moves (one shoot and one bomb)",
+      "availableColorsCount": 3,
+      "nextColors": [0],
+      "constraints": { "type": "rounds", "value": 2 },
+      "boosters": ["destroy"],
+      "borderOverrides": [
+  { "x": 2, "y": 1, "colorId": 7, "showsArrow": true, "direction": "down" },
+  { "x": 3, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 4, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 5, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 6, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 7, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 8, "y": 1, "colorId": 7, "showsArrow": true, "direction": "down" },
+  { "x": 9, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 10, "y": 1, "colorId": 9, "showsArrow": true, "direction": "down" },
+
+  { "x": 11, "y": 2, "colorId": 9, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 3, "colorId": 8, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 4, "colorId": 8, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 5, "colorId": 8, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 6, "colorId": 7, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 7, "colorId": 7, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 8, "colorId": 8, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 9, "colorId": 9, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 10, "colorId": 9, "showsArrow": true, "direction": "left" },
+
+  { "x": 10, "y": 11, "colorId": 9, "showsArrow": true, "direction": "up" },
+  { "x": 9, "y": 11, "colorId": 8, "showsArrow": true, "direction": "up" },
+  { "x": 8, "y": 11, "colorId": 9, "showsArrow": true, "direction": "up" },
+  { "x": 7, "y": 11, "colorId": 9, "showsArrow": true, "direction": "up" },
+  { "x": 6, "y": 11, "colorId": 8, "showsArrow": true, "direction": "up" },
+  { "x": 5, "y": 11, "colorId": 7, "showsArrow": true, "direction": "up" },
+  { "x": 4, "y": 11, "colorId": 7, "showsArrow": true, "direction": "up" },
+  { "x": 3, "y": 11, "colorId": 9, "showsArrow": true, "direction": "up" },
+  { "x": 2, "y": 11, "colorId": 8, "showsArrow": true, "direction": "up" },
+
+  { "x": 1, "y": 10, "colorId": 9, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 9, "colorId": 8, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 8, "colorId": 7, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 7, "colorId": 9, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 6, "colorId": 9, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 5, "colorId": 9, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 4, "colorId": 8, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 3, "colorId": 8, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 2, "colorId": 7, "showsArrow": true, "direction": "right" }
+],
+      
+      "center": [
+        
+        { "x": 6, "y": 3, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 7, "y": 3, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 8, "y": 3, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 9, "y": 3, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        
+        { "x": 3, "y": 4, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 4, "y": 4, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 7, "y": 4, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 8, "y": 4, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 9, "y": 4, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        
+        { "x": 3, "y": 5, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 4, "y": 5, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 5, "y": 5, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        { "x": 9, "y": 5, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        
+        { "x": 3, "y": 6, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 4, "y": 6, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        
+        { "x": 4, "y": 7, "colorId": 9, "isBlocking": true, "showsArrow": false, "direction": "right" },
+        { "x": 5, "y": 7, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        { "x": 7, "y": 7, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 8, "y": 7, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        
+        { "x": 4, "y": 8, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 6, "y": 8, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 7, "y": 8, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 8, "y": 8, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        
+        { "x": 3, "y": 9, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 6, "y": 9, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 7, "y": 9, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 8, "y": 9, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 9, "y": 9, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        { "x": 10, "y": 9, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        
+        { "x": 3, "y": 10, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" }
+      ]
+    },
+    {
       "id": 1001,
       "title": "Two Shots",
       "description": "Clear the entire board in exactly 2 moves. No boosters, no mercy.",
@@ -16,6 +107,7 @@
       "center": [
         { "x": 6, "y": 2, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "up" },
         { "x": 5, "y": 3, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "up" },
+        { "x": 7, "y": 3, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "up" },
         { "x": 6, "y": 10, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
 
         { "x": 6, "y": 3, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -80,6 +172,7 @@
     {
       "id": 1003,
       "title": "challenge 3",
+      "description": "Clear the entire board in exactly 2 moves. No boosters, no mercy.",
       "availableColorsCount": 4,
       "nextColors": [0, 0],
       "boosters": [],
@@ -111,11 +204,11 @@
     {
       "id": 1004,
       "title": "cascade machine",
+      "description": "Clear the entire board in exactly 2 moves. No boosters, no mercy.",
       "availableColorsCount": 4,
       "nextColors": [0],
       "constraints": { "type": "rounds", "value": 2 },
       "boosters": [],
-      
       "borderOverrides": [
         { "x": 1, "y": 8, "colorId": 0, "direction": "right" },
         { "x": 6, "y": 11, "colorId": 0, "direction": "up" },
@@ -189,6 +282,97 @@
         { "x": 3, "y": 3, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "down" },
         { "x": 3, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "right" },
         { "x": 4, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": true, "direction": "left" }
+      ]
+    },
+    {
+      "id": 1005,
+      "title": "cascade machine 2",
+      "description": "Clear the entire board in exactly 2 moves (one shoot and one bomb)",
+      "availableColorsCount": 3,
+      "nextColors": [0],
+      "constraints": { "type": "rounds", "value": 2 },
+      "boosters": ["destroy"],
+      "borderOverrides": [
+  { "x": 2, "y": 1, "colorId": 7, "showsArrow": true, "direction": "down" },
+  { "x": 3, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 4, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 5, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 6, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 7, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 8, "y": 1, "colorId": 7, "showsArrow": true, "direction": "down" },
+  { "x": 9, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
+  { "x": 10, "y": 1, "colorId": 9, "showsArrow": true, "direction": "down" },
+
+  { "x": 11, "y": 2, "colorId": 9, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 3, "colorId": 8, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 4, "colorId": 8, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 5, "colorId": 8, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 6, "colorId": 7, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 7, "colorId": 7, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 8, "colorId": 8, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 9, "colorId": 9, "showsArrow": true, "direction": "left" },
+  { "x": 11, "y": 10, "colorId": 9, "showsArrow": true, "direction": "left" },
+
+  { "x": 10, "y": 11, "colorId": 9, "showsArrow": true, "direction": "up" },
+  { "x": 9, "y": 11, "colorId": 8, "showsArrow": true, "direction": "up" },
+  { "x": 8, "y": 11, "colorId": 9, "showsArrow": true, "direction": "up" },
+  { "x": 7, "y": 11, "colorId": 9, "showsArrow": true, "direction": "up" },
+  { "x": 6, "y": 11, "colorId": 8, "showsArrow": true, "direction": "up" },
+  { "x": 5, "y": 11, "colorId": 7, "showsArrow": true, "direction": "up" },
+  { "x": 4, "y": 11, "colorId": 7, "showsArrow": true, "direction": "up" },
+  { "x": 3, "y": 11, "colorId": 9, "showsArrow": true, "direction": "up" },
+  { "x": 2, "y": 11, "colorId": 8, "showsArrow": true, "direction": "up" },
+
+  { "x": 1, "y": 10, "colorId": 9, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 9, "colorId": 8, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 8, "colorId": 7, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 7, "colorId": 9, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 6, "colorId": 9, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 5, "colorId": 9, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 4, "colorId": 8, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 3, "colorId": 8, "showsArrow": true, "direction": "right" },
+  { "x": 1, "y": 2, "colorId": 7, "showsArrow": true, "direction": "right" }
+],
+      
+      "center": [
+        
+        { "x": 6, "y": 3, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 7, "y": 3, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 8, "y": 3, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 9, "y": 3, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        
+        { "x": 3, "y": 4, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 4, "y": 4, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 7, "y": 4, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 8, "y": 4, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 9, "y": 4, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        
+        { "x": 3, "y": 5, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 4, "y": 5, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 5, "y": 5, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        { "x": 9, "y": 5, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        
+        { "x": 3, "y": 6, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 4, "y": 6, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        
+        { "x": 4, "y": 7, "colorId": 9, "isBlocking": true, "showsArrow": false, "direction": "right" },
+        { "x": 5, "y": 7, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        { "x": 7, "y": 7, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 8, "y": 7, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        
+        { "x": 4, "y": 8, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 6, "y": 8, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 7, "y": 8, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "right" },
+        { "x": 8, "y": 8, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        
+        { "x": 3, "y": 9, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "down" },
+        { "x": 6, "y": 9, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 7, "y": 9, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 8, "y": 9, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+        { "x": 9, "y": 9, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        { "x": 10, "y": 9, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "left" },
+        
+        { "x": 3, "y": 10, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" }
       ]
     }
   ]
