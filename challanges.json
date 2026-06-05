@@ -144,8 +144,6 @@
         { "x": 6, "y": 2, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "up" },
         { "x": 5, "y": 3, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "up" },
         { "x": 7, "y": 3, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "up" },
-        { "x": 4, "y": 3, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "up" },
-        { "x": 8, "y": 3, "colorId": 7, "isBlocking": true, "showsArrow": false, "direction": "up" },
         { "x": 6, "y": 10, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
 
         { "x": 5, "y": 4, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -171,8 +169,9 @@
       "description": "Clear the board with one move and one hammer strike. Few can do it.",
       "availableColorsCount": 3,
       "nextColors": [0],
-      "constraints": { "type": "rounds", "value": 1 },
+      "constraints": { "type": "rounds", "value": 2 },
       "boosters": ["destroy"],
+      "boosterCounts": { "destroy": 1 },
       "borderOverrides": [
   { "x": 2, "y": 1, "colorId": 7, "showsArrow": true, "direction": "down" },
   { "x": 3, "y": 1, "colorId": 8, "showsArrow": true, "direction": "down" },
@@ -263,7 +262,8 @@
       "description": "Two headaches for the price of one.",
       "availableColorsCount": 5,
       "nextColors": [0, 0],
-      "boosters": [],
+      "boosters": ["undo"],
+      "boosterCounts": { "undo": 2 },
       "borderOverrides": [
         { "x": 1, "y": 6, "colorId": 0, "direction": "right" },
         { "x": 11, "y": 6, "colorId": 0, "direction": "left" }
