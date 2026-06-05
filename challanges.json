@@ -262,8 +262,7 @@
       "description": "Two headaches for the price of one.",
       "availableColorsCount": 5,
       "nextColors": [0, 0],
-      "boosters": ["undo"],
-      "boosterCounts": { "undo": 2 },
+      "boosters": [],
       "borderOverrides": [
         { "x": 1, "y": 6, "colorId": 0, "direction": "right" },
         { "x": 11, "y": 6, "colorId": 0, "direction": "left" }
