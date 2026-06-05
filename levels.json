@@ -1240,25 +1240,25 @@
    {
     "id": 71,
     "title": "Four Squares",
-    "availableColorsCount": 4,
+    "availableColorsCount": 6,
     "center": [
       { "x": 3, "y": 4, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 4, "y": 4, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 8, "y": 4, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 9, "y": 4, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       
-      { "x": 3, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
-      { "x": 4, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
-      { "x": 8, "y": 5, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
-      { "x": 9, "y": 5, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 3, "y": 5, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 4, "y": 5, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 9, "y": 5, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
       
-      { "x": 7, "y": 7, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
-      { "x": 8, "y": 7, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 7, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       
-      { "x": 4, "y": 5, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
-      { "x": 5, "y": 6, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
-      { "x": 7, "y": 6, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
-      { "x": 8, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 4, "y": 8, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 5, "y": 8, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 7, "y": 8, "colorId": 0, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 8, "y": 8, "colorId": 1, "isBlocking": true, "showsArrow": false, "direction": "up" },
       
       { "x": 4, "y": 9, "colorId": 2, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 5, "y": 9, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" }
@@ -1267,7 +1267,7 @@
   {
     "id": 72,
     "title": "Rainfall",
-    "availableColorsCount": 4,
+    "availableColorsCount": 6,
     "center": [
       { "x": 4, "y": 3, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 7, "y": 3, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1277,6 +1277,7 @@
       { "x": 8, "y": 6, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 5, "y": 7, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 7, "y": 8, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
+      { "x": 9, "y": 9, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 4, "y": 9, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" }
     ]
   }   
