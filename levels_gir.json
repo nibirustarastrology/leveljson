@@ -1,0 +1,2334 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": 1,
+      "title": "FIRST TURN",
+      "subtitle": "Bridge the gap so the output turns.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -92.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 92.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "bronze",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 23
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 23,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 20,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "RELAY",
+      "subtitle": "Two empty posts. Pass the motion along the bend.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -96.0,
+          "cy": 56.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 96.0,
+          "cy": -56.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -45.0,
+          "cy": -10.0,
+          "teeth": 20
+        },
+        {
+          "id": "s2",
+          "cx": 45.0,
+          "cy": 10.0,
+          "teeth": 20
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 20,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 20,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "ODD ONE OUT",
+      "subtitle": "Different posts want different sizes. Pick wisely.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -84.5,
+          "cy": 59.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 84.5,
+          "cy": -59.0,
+          "teeth": 14,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -27.5,
+          "cy": 28.0,
+          "teeth": 12
+        },
+        {
+          "id": "s2",
+          "cx": -2.5,
+          "cy": -50.0,
+          "teeth": 24
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 12,
+          "material": "bronze"
+        },
+        {
+          "uid": "t2",
+          "teeth": 24,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "steel"
+        },
+        {
+          "uid": "t4",
+          "teeth": 20,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "BROKEN TOOTH",
+      "subtitle": "This gear is missing teeth. Place it, then tap to rotate until both sides bite.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -60.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 60.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": -42.0,
+          "teeth": 15
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "bronze",
+          "gap": {
+            "start": 12,
+            "count": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "TURN IT RIGHT",
+      "subtitle": "The output must spin clockwise \u2014 and one gear is bolted down.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -109.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": 14.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 109.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -48.0,
+          "cy": -55.0,
+          "teeth": 21
+        },
+        {
+          "id": "s2",
+          "cx": 62.0,
+          "cy": -43.0,
+          "teeth": 13
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 21,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 13,
+          "material": "bronze"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "PARITY TRAP",
+      "subtitle": "The easy bridge runs it backwards. Take the long road to flip it right.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -129.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": 55.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 129.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -37.0,
+          "cy": -0.0,
+          "teeth": 23
+        },
+        {
+          "id": "s2",
+          "cx": -74.0,
+          "cy": -49.0,
+          "teeth": 15
+        },
+        {
+          "id": "s3",
+          "cx": 0.0,
+          "cy": -49.0,
+          "teeth": 17
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 23,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 17,
+          "material": "bronze"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "IDLER'S ROW",
+      "subtitle": "A straight run of empty posts \u2014 all the same size.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -140.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 140.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -70.0,
+          "cy": -22.0,
+          "teeth": 16
+        },
+        {
+          "id": "s2",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 16
+        },
+        {
+          "id": "s3",
+          "cx": 70.0,
+          "cy": -22.0,
+          "teeth": 16
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 16,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 16,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "copper"
+        },
+        {
+          "uid": "t4",
+          "teeth": 20,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "SIZE LADDER",
+      "subtitle": "Each seat wants its own size. Read the gaps.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -132.0,
+          "cy": 35.5,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 132.0,
+          "cy": -35.5,
+          "teeth": 16,
+          "material": "bronze",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -75.0,
+          "cy": 5.5,
+          "teeth": 11
+        },
+        {
+          "id": "s2",
+          "cx": -2.0,
+          "cy": 13.5,
+          "teeth": 19
+        },
+        {
+          "id": "s3",
+          "cx": 63.0,
+          "cy": -30.5,
+          "teeth": 13
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 11,
+          "material": "bronze"
+        },
+        {
+          "uid": "t2",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 13,
+          "material": "patina"
+        },
+        {
+          "uid": "t4",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "THE BEND",
+      "subtitle": "Carry the turn around a tight corner.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -91.0,
+          "cy": 91.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 91.0,
+          "cy": -91.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -32.0,
+          "cy": 32.0,
+          "teeth": 19
+        },
+        {
+          "id": "s2",
+          "cx": 33.0,
+          "cy": -33.0,
+          "teeth": 19
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "THE GOVERNOR",
+      "subtitle": "A bolted gear sits in the path. Feed it from both sides.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -113.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": 14.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 113.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -49.0,
+          "cy": -53.0,
+          "teeth": 20
+        },
+        {
+          "id": "s2",
+          "cx": 63.0,
+          "cy": -41.0,
+          "teeth": 13
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 20,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 13,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "HIGH & LOW",
+      "subtitle": "Alternate the giants and the runt.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -134.0,
+          "cy": 2.5,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 134.0,
+          "cy": -2.5,
+          "teeth": 12,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -62.0,
+          "cy": -53.5,
+          "teeth": 23
+        },
+        {
+          "id": "s2",
+          "cx": 3.0,
+          "cy": -2.5,
+          "teeth": 12
+        },
+        {
+          "id": "s3",
+          "cx": 69.0,
+          "cy": -53.5,
+          "teeth": 23
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 23,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 23,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 12,
+          "material": "bronze"
+        },
+        {
+          "uid": "t4",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "BROKEN RELAY",
+      "subtitle": "One gear is cracked. Seat it, then spin the gap aside.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -96.0,
+          "cy": 18.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 96.0,
+          "cy": -18.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -32.0,
+          "cy": -18.0,
+          "teeth": 16
+        },
+        {
+          "id": "s2",
+          "cx": 32.0,
+          "cy": 18.0,
+          "teeth": 16
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 16,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 5
+          }
+        },
+        {
+          "uid": "t2",
+          "teeth": 16,
+          "material": "copper"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "THE SWEEP",
+      "subtitle": "A long arc of four empty posts.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -129.0,
+          "cy": 46.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 129.0,
+          "cy": -46.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -84.0,
+          "cy": -12.0,
+          "teeth": 17
+        },
+        {
+          "id": "s2",
+          "cx": -23.0,
+          "cy": 29.0,
+          "teeth": 17
+        },
+        {
+          "id": "s3",
+          "cx": 23.0,
+          "cy": -29.0,
+          "teeth": 17
+        },
+        {
+          "id": "s4",
+          "cx": 84.0,
+          "cy": 12.0,
+          "teeth": 17
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t4",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t5",
+          "teeth": 20,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "THE CASCADE",
+      "subtitle": "Three seats, three sizes, tumbling down.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -126.0,
+          "cy": 13.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 126.0,
+          "cy": -13.0,
+          "teeth": 16,
+          "material": "bronze",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -64.0,
+          "cy": -42.0,
+          "teeth": 21
+        },
+        {
+          "id": "s2",
+          "cx": 3.0,
+          "cy": -3.0,
+          "teeth": 15
+        },
+        {
+          "id": "s3",
+          "cx": 58.0,
+          "cy": -53.0,
+          "teeth": 18
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 21,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 18,
+          "material": "patina"
+        },
+        {
+          "uid": "t4",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "CROSSWEAVE",
+      "subtitle": "Thread the drive between two bolted gears.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -130.0,
+          "cy": 26.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": -23.0,
+          "cy": 23.0,
+          "teeth": 14,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "fixed_1",
+          "cx": 81.0,
+          "cy": 23.0,
+          "teeth": 14,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 130.0,
+          "cy": -26.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -75.0,
+          "cy": -29.0,
+          "teeth": 18
+        },
+        {
+          "id": "s2",
+          "cx": 29.0,
+          "cy": -29.0,
+          "teeth": 18
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 18,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 18,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "TWIN CRACKS",
+      "subtitle": "Two cracked gears in a row. Align them both.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -100.0,
+          "cy": 16.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 100.0,
+          "cy": -16.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -33.0,
+          "cy": -16.0,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": 33.0,
+          "cy": 16.0,
+          "teeth": 15
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "FLYWHEEL",
+      "subtitle": "Light, heavy, light, heavy \u2014 build the momentum.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -124.0,
+          "cy": 41.5,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 124.0,
+          "cy": -41.5,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -84.0,
+          "cy": -14.5,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": -26.0,
+          "cy": 37.5,
+          "teeth": 19
+        },
+        {
+          "id": "s3",
+          "cx": 19.0,
+          "cy": -26.5,
+          "teeth": 15
+        },
+        {
+          "id": "s4",
+          "cx": 77.0,
+          "cy": 25.5,
+          "teeth": 19
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "bronze"
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t4",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t5",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "ESCAPEMENT",
+      "subtitle": "Slip the drive past two bolted wheels.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -126.0,
+          "cy": 42.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": -15.0,
+          "cy": 35.0,
+          "teeth": 20,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "fixed_1",
+          "cx": 81.0,
+          "cy": 16.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 126.0,
+          "cy": -42.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -81.0,
+          "cy": -16.0,
+          "teeth": 17
+        },
+        {
+          "id": "s2",
+          "cx": 30.0,
+          "cy": -23.0,
+          "teeth": 13
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 13,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 18,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "THE JUNCTION",
+      "subtitle": "One seat, three gears in the box. Only one reaches.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": 0.0,
+          "cy": 74.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 0.0,
+          "cy": -74.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 15
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 20,
+          "material": "steel"
+        },
+        {
+          "uid": "t3",
+          "teeth": 12,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "THE LONG WAY",
+      "subtitle": "The easy bridge runs it backwards. Take the long road.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -129.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": 55.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 129.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -37.0,
+          "cy": -0.0,
+          "teeth": 23
+        },
+        {
+          "id": "s2",
+          "cx": -74.0,
+          "cy": -49.0,
+          "teeth": 17
+        },
+        {
+          "id": "s3",
+          "cx": 0.0,
+          "cy": -49.0,
+          "teeth": 17
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 23,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 17,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 17,
+          "material": "bronze"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "TWIN BRIDGE",
+      "subtitle": "Only the largest gear can span the gap.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -92.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 92.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 23
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 23,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 20,
+          "material": "steel"
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "COUNTER-TURN",
+      "subtitle": "The output must spin against the drive.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -92.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 92.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 23
+        },
+        {
+          "id": "s2",
+          "cx": -37.0,
+          "cy": -49.0,
+          "teeth": 17
+        },
+        {
+          "id": "s3",
+          "cx": 37.0,
+          "cy": -49.0,
+          "teeth": 17
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 23,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 17,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 17,
+          "material": "bronze"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "DEAD CENTRE",
+      "subtitle": "Drive it home \u2014 and clockwise.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -139.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 139.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -72.0,
+          "cy": -39.0,
+          "teeth": 17
+        },
+        {
+          "id": "s2",
+          "cx": 0.0,
+          "cy": 3.0,
+          "teeth": 17
+        },
+        {
+          "id": "s3",
+          "cx": 72.0,
+          "cy": -39.0,
+          "teeth": 17
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t4",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "GRAND ESCAPE",
+      "subtitle": "A gauntlet of bolted wheels. Find the two open seats.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -129.0,
+          "cy": 46.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": -23.0,
+          "cy": 29.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "fixed_1",
+          "cx": 84.0,
+          "cy": 12.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 129.0,
+          "cy": -46.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -84.0,
+          "cy": -12.0,
+          "teeth": 17
+        },
+        {
+          "id": "s2",
+          "cx": 23.0,
+          "cy": -29.0,
+          "teeth": 17
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 20,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "THE REGULATOR",
+      "subtitle": "A cracked gear and a bolted one guard the output.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -121.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 121.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -60.0,
+          "cy": -42.0,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": 60.0,
+          "cy": -42.0,
+          "teeth": 15
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 20,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "GRAND ORRERY",
+      "subtitle": "Everything you have learned, in one machine.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -110.0,
+          "cy": 74.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": -110.0,
+          "cy": -74.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 110.0,
+          "cy": -74.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -110.0,
+          "cy": -0.0,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": -37.0,
+          "cy": -74.0,
+          "teeth": 15
+        },
+        {
+          "id": "s3",
+          "cx": 37.0,
+          "cy": -74.0,
+          "teeth": 15
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 15,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "THE GAUNTLET",
+      "subtitle": "A zig-zag past three bolted wheels. Find the open seats.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -133.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": -44.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "fixed_1",
+          "cx": 44.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 133.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -89.0,
+          "cy": -58.0,
+          "teeth": 16
+        },
+        {
+          "id": "s2",
+          "cx": 0.0,
+          "cy": -58.0,
+          "teeth": 16
+        },
+        {
+          "id": "s3",
+          "cx": 89.0,
+          "cy": -58.0,
+          "teeth": 16
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 16,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 16,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "copper"
+        },
+        {
+          "uid": "t4",
+          "teeth": 20,
+          "material": "steel"
+        },
+        {
+          "uid": "t5",
+          "teeth": 12,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "TRIPLE CRACK",
+      "subtitle": "Three cracked gears in a row. Align every one.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -130.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 130.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -65.0,
+          "cy": -34.0,
+          "teeth": 16
+        },
+        {
+          "id": "s2",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 16
+        },
+        {
+          "id": "s3",
+          "cx": 65.0,
+          "cy": -34.0,
+          "teeth": 16
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 16,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        },
+        {
+          "uid": "t2",
+          "teeth": 16,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        },
+        {
+          "uid": "t4",
+          "teeth": 16,
+          "material": "copper"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "OVERSTOCK",
+      "subtitle": "A crowded tray. Most of it is the wrong size.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -109.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 109.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -51.0,
+          "cy": -59.0,
+          "teeth": 19
+        },
+        {
+          "id": "s2",
+          "cx": 0.0,
+          "cy": -6.0,
+          "teeth": 11
+        },
+        {
+          "id": "s3",
+          "cx": 51.0,
+          "cy": -59.0,
+          "teeth": 19
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 11,
+          "material": "bronze"
+        },
+        {
+          "uid": "t4",
+          "teeth": 16,
+          "material": "steel"
+        },
+        {
+          "uid": "t5",
+          "teeth": 16,
+          "material": "steel"
+        },
+        {
+          "uid": "t6",
+          "teeth": 14,
+          "material": "steel"
+        },
+        {
+          "uid": "t7",
+          "teeth": 24,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "THE SPIRAL",
+      "subtitle": "A long winding run. Keep the rhythm.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -134.0,
+          "cy": 26.5,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 134.0,
+          "cy": -26.5,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -86.0,
+          "cy": -23.5,
+          "teeth": 14
+        },
+        {
+          "id": "s2",
+          "cx": -32.0,
+          "cy": 32.5,
+          "teeth": 19
+        },
+        {
+          "id": "s3",
+          "cx": 22.0,
+          "cy": -23.5,
+          "teeth": 14
+        },
+        {
+          "id": "s4",
+          "cx": 77.0,
+          "cy": 32.5,
+          "teeth": 19
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 14,
+          "material": "bronze"
+        },
+        {
+          "uid": "t2",
+          "teeth": 14,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t4",
+          "teeth": 19,
+          "material": "copper"
+        },
+        {
+          "uid": "t5",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "DOUBLE TRAP",
+      "subtitle": "The centre bridge jams the works. Go around it.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -74.0,
+          "cy": 74.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": -74.0,
+          "cy": -74.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 74.0,
+          "cy": -74.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -74.0,
+          "cy": -0.0,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": 0.0,
+          "cy": -74.0,
+          "teeth": 15
+        },
+        {
+          "id": "s3",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 24
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 24,
+          "material": "bronze"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "THE LABYRINTH",
+      "subtitle": "Route the L, and the corner gear is cracked.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -74.0,
+          "cy": 74.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": 74.0,
+          "cy": 74.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 74.0,
+          "cy": -74.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": 74.0,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": 74.0,
+          "cy": -0.0,
+          "teeth": 15
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        },
+        {
+          "uid": "t3",
+          "teeth": 16,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "CLOCKWORK",
+      "subtitle": "Five seats, three gears. Only one route reaches.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -74.0,
+          "cy": 74.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 74.0,
+          "cy": -74.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": 74.0,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": 74.0,
+          "cy": 74.0,
+          "teeth": 17
+        },
+        {
+          "id": "s3",
+          "cx": 74.0,
+          "cy": -0.0,
+          "teeth": 15
+        },
+        {
+          "id": "s4",
+          "cx": 0.0,
+          "cy": -74.0,
+          "teeth": 16
+        },
+        {
+          "id": "s5",
+          "cx": -74.0,
+          "cy": -0.0,
+          "teeth": 16
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 15,
+          "material": "copper"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "GRAND REGULATOR",
+      "subtitle": "A cracked gear, then a gauntlet of bolted wheels.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -105.5,
+          "cy": 30.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": -21.5,
+          "cy": 30.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "fixed_1",
+          "cx": 62.5,
+          "cy": 30.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 105.5,
+          "cy": -30.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -63.5,
+          "cy": -30.0,
+          "teeth": 17
+        },
+        {
+          "id": "s2",
+          "cx": 20.5,
+          "cy": -30.0,
+          "teeth": 17
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 17,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        },
+        {
+          "uid": "t2",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 20,
+          "material": "steel"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "COUNTERWEIGHT",
+      "subtitle": "The output must run against the drive. The bridge betrays you.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -92.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 92.0,
+          "cy": -0.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 23
+        },
+        {
+          "id": "s2",
+          "cx": -37.0,
+          "cy": -49.0,
+          "teeth": 17
+        },
+        {
+          "id": "s3",
+          "cx": 37.0,
+          "cy": -49.0,
+          "teeth": 17
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 17,
+          "material": "copper"
+        },
+        {
+          "uid": "t3",
+          "teeth": 23,
+          "material": "bronze"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "MASTER ORRERY",
+      "subtitle": "Everything at once: a trap bridge, a broken gear, a turn to make.",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -74.0,
+          "cy": 74.0,
+          "teeth": 16,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "fixed",
+          "cx": 74.0,
+          "cy": 74.0,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        },
+        {
+          "id": "goal",
+          "cx": 74.0,
+          "cy": -74.0,
+          "teeth": 16,
+          "material": "patina",
+          "role": "goal"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": 0.0,
+          "cy": 74.0,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": 74.0,
+          "cy": -0.0,
+          "teeth": 15
+        },
+        {
+          "id": "s3",
+          "cx": 0.0,
+          "cy": -0.0,
+          "teeth": 24
+        }
+      ],
+      "tray": [
+        {
+          "uid": "t1",
+          "teeth": 15,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "bronze",
+          "gap": {
+            "start": 0,
+            "count": 4
+          }
+        },
+        {
+          "uid": "t3",
+          "teeth": 24,
+          "material": "bronze"
+        }
+      ]
+    }
+  ]
+}
