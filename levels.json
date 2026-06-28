@@ -1351,7 +1351,7 @@
   {
     "id": 76,
     "title": "Fireworks",
-    "availableColorsCount": 10,
+    "availableColorsCount": 5,
     "borderOverrides": [
         { "x": 5, "y": 1, "colorId": 5, "direction": "down" },
         { "x": 1, "y": 4, "colorId": 4, "direction": "right" },
