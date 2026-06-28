@@ -2329,6 +2329,106 @@
           "material": "bronze"
         }
       ]
+    },
+    {
+  "version": 1,
+  "levels": [
+    {
+      "id": 1,
+      "title": "MY LEVEL",
+      "subtitle": "",
+      "gears": [
+        {
+          "id": "driver",
+          "cx": -190,
+          "cy": 190,
+          "teeth": 10,
+          "material": "brass",
+          "role": "driver"
+        },
+        {
+          "id": "goal",
+          "cx": 200,
+          "cy": 0,
+          "teeth": 24,
+          "material": "patina",
+          "role": "goal"
+        },
+        {
+          "id": "fixed",
+          "cx": -10,
+          "cy": 60,
+          "teeth": 16,
+          "material": "steel",
+          "role": "fixed"
+        }
+      ],
+      "slots": [
+        {
+          "id": "s1",
+          "cx": -139.1,
+          "cy": 163.5,
+          "teeth": 15
+        },
+        {
+          "id": "s2",
+          "cx": -66.7,
+          "cy": 123.4,
+          "teeth": 21
+        },
+        {
+          "id": "s3",
+          "cx": 49.5,
+          "cy": 66.1,
+          "teeth": 10
+        },
+        {
+          "id": "s4",
+          "cx": 53.4,
+          "cy": 4.1,
+          "teeth": 17
+        },
+        {
+          "id": "s5",
+          "cx": 118.8,
+          "cy": 32.4,
+          "teeth": 14
+        }
+      ],
+      "qwerty": [
+        {
+          "uid": "t1",
+          "teeth": 24,
+          "material": "copper"
+        },
+        {
+          "uid": "t2",
+          "teeth": 15,
+          "material": "bronze"
+        },
+        {
+          "uid": "t3",
+          "teeth": 21,
+          "material": "bronze"
+        },
+        {
+          "uid": "t4",
+          "teeth": 10,
+          "material": "bronze"
+        },
+        {
+          "uid": "t5",
+          "teeth": 17,
+          "material": "bronze"
+        },
+        {
+          "uid": "t6",
+          "teeth": 14,
+          "material": "bronze"
+        }
+      ]
     }
+  ]
+}
   ]
 }
