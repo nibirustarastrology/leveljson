@@ -23,24 +23,12 @@
           "role": "goal"
         }
       ],
-      "slots": [
-        {
-          "id": "s1",
-          "cx": 10,
-          "cy": 0,
-          "teeth": 16
-        }
-      ],
+      "slots": [],
       "tray": [
         {
           "uid": "t1",
           "teeth": 24,
           "material": "copper"
-        },
-        {
-          "uid": "t2",
-          "teeth": 16,
-          "material": "bronze"
         }
       ]
     }
