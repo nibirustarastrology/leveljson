@@ -1267,7 +1267,7 @@
   {
     "id": 72,
     "title": "Rainfall",
-    "availableColorsCount": 6,
+    "availableColorsCount": 7,
     "center": [
       { "x": 4, "y": 3, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 7, "y": 3, "colorId": 3, "isBlocking": true, "showsArrow": false, "direction": "up" },
@@ -1284,7 +1284,7 @@
   {
     "id": 73,
     "title": "Heart",
-    "availableColorsCount": 6,
+    "availableColorsCount": 7,
     "borderOverrides": [
         { "x": 6, "y": 1, "colorId": 5, "direction": "down" },
         { "x": 2, "y": 7, "colorId": 4, "direction": "right" },
@@ -1307,7 +1307,7 @@
   {
     "id": 74,
     "title": "Emerald",
-    "availableColorsCount": 6,
+    "availableColorsCount": 7,
     "borderOverrides": [
         { "x": 6, "y": 1, "colorId": 5, "direction": "down" },
         { "x": 2, "y": 7, "colorId": 4, "direction": "right" },
