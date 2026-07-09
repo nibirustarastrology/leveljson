@@ -1373,11 +1373,11 @@
       { "x": 6, "y": 9, "colorId": 4, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 7, "y": 9, "colorId": 5, "isBlocking": true, "showsArrow": false, "direction": "up" },
       { "x": 8, "y": 9, "colorId": 6, "isBlocking": true, "showsArrow": false, "direction": "up" },
-      { "x": 4, "y": 10, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
-      { "x": 5, "y": 10, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "up" },
+      { "x": 4, "y": 10, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
+      { "x": 5, "y": 10, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
       { "x": 6, "y": 10, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" },
-      { "x": 7, "y": 10, "colorId": 8, "isBlocking": true, "showsArrow": true, "direction": "up" },
-      { "x": 8, "y": 10, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" }
+      { "x": 7, "y": 10, "colorId": 7, "isBlocking": true, "showsArrow": true, "direction": "up" },
+      { "x": 8, "y": 10, "colorId": 9, "isBlocking": true, "showsArrow": true, "direction": "up" }
     ]
   }                                             
    
